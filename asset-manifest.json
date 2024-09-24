@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/k9win/static/css/main.4c86223a.css",
+    "main.js": "/k9win/static/js/main.53469cd7.js",
+    "static/media/image.png": "/k9win/static/media/image.0fa445aa1de2d49b3e70.png",
+    "static/media/table.jpg": "/k9win/static/media/table.5f6748047d166506b31a.jpg",
+    "static/media/shirt.png": "/k9win/static/media/shirt.8546d4807cfca936fc47.png",
+    "static/media/logo_inr.png": "/k9win/static/media/logo_inr.13bd61242336d44606ed.png",
+    "index.html": "/k9win/index.html",
+    "main.4c86223a.css.map": "/k9win/static/css/main.4c86223a.css.map",
+    "main.53469cd7.js.map": "/k9win/static/js/main.53469cd7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4c86223a.css",
+    "static/js/main.53469cd7.js"
+  ]
+}
