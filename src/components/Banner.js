@@ -67,8 +67,8 @@ export const Banner = () => {
                             <div>IPL Shirt</div>
                             <div className="sub-promo-text">for FREE!</div>
                         </h1>
-                        <Button href="https://k9inr1.com/en/promotion" variant="warning" size="lg">More Info <ArrowRightCircle size={25} /></Button>
-                        {/* <Button href="https://k9inr1.com/?aff=meo" variant="warning" size="lg">Sign Up <ArrowRightCircle size={25} /></Button> */}
+                        <Button href="https://k9inr1.com/en/promotion" variant="warning" size="lg">Get Your Free Tshirt <ArrowRightCircle size={25} /></Button>
+                        {/* <Button href="https://k9inr1.com/en/promotion" variant="link" size="lg">Get Your Free Tshirt</Button> */}
                     </Col>
                     <Col className="column-2" xs={12} md={6} xl={5}>
                         <img className="bounce" src={headerImg} alt="Header Img" />

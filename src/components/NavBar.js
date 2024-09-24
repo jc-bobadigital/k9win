@@ -5,11 +5,11 @@ export const NavBar = () => {
     return (
         <Navbar expand="md">
             <Container>
-                <Navbar.Brand href="/">
+                <Navbar.Brand href="https://k9inr1.com/">
                     <img src={logo} alt="Logo" />
                 </Navbar.Brand>
                 <Nav>
-                    <Button href="https://k9inr1.com/?aff=meo" size="lg" variant="warning">Sign up</Button>
+                    <Button href="https://k9inr1.com/?aff=meo" size="lg" variant="warning" className="fw-bolder">Sign up</Button>
                 </Nav>
             </Container>
         </Navbar>
