@@ -219,13 +219,6 @@ h1 > .wrap {
   }
 }
 
-@media only screen and (max-width: 430px) {
-  .container {
-    display: block;
-    text-align: center;
-  }
-}
-
 .promo-text {
     font-weight: bold;
     text-align: center;
@@ -253,3 +246,27 @@ h1 > .wrap {
   opacity: 0.8;
 }
 
+@media only screen and (max-width: 430px) {
+  .container {
+    display: block;
+    text-align: center;
+  }
+
+  .banner .bg {
+    width: 427px;
+    left: 0;
+    top: 460px;
+  }
+
+  .promo-text {
+    transform: none;
+  }
+
+  .banner a {
+    margin-top: 0;
+  }
+
+  .banner h1 {
+    margin-top: 90px;
+  }
+}
