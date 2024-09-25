@@ -1,7 +1,7 @@
 import { useState, useEffect } from "react"
 import { Row, Col, Container, Button } from "react-bootstrap"
 import { ArrowRightCircle } from "react-bootstrap-icons"
-import headerImg from "../assets/img/shirt.png"
+import headerImg from "../assets/img/shirt3.png"
 import headerImg2 from "../assets/img/image.png"
 
 export const Banner = () => {
@@ -57,7 +57,7 @@ export const Banner = () => {
             </div>
             <Container>
                 <img className="bg" src={headerImg2} alt="Header Img" />
-                <Row className="align-items-center">
+                <Row className="align-items-center w-100">
                     <Col className="column-1 text-center" xs={12} md={6} xl={7}>
                         {/* <h1>Mega Lotto Jackpot up to INR <span className="wrap">{text}</span></h1>
                         <h2>Fastest Withdrawal Time in the Market!</h2>
